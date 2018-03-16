@@ -1,0 +1,24 @@
+{
+  "name": "isomorphic-url-shim",
+  "version": "1.0.0",
+  "description": "Node and browser module that returns either the native URL interface or a shimmed one",
+  "main": "main.js",
+  "browser": "browser.js",
+  "module": "module.js",
+  "types": "types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "isomorphic",
+    "node",
+    "browser",
+    "shim"
+  ],
+  "author": "jccr",
+  "license": "ISC",
+  "dependencies": {
+    "url-ponyfill": "^0.5.8"
+  }
+}
