@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-url-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node and browser module that returns either the native URL interface or a shimmed one",
   "main": "main.js",
   "browser": "browser.js",
