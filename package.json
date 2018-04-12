@@ -19,6 +19,6 @@
   "author": "jccr",
   "license": "ISC",
   "dependencies": {
-    "url-ponyfill": "^0.5.8"
+    "url-ponyfill": "^0.5.9"
   }
 }
